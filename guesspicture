@@ -1,0 +1,69 @@
+[
+  {
+    "index": 0,
+    "img": "https://i.imgur.com/2AOLgKm.jpg",
+    "jawaban": "GOKU",
+    "deskripsi": "Fue el guerrero mas fuerte de dragon ball, hasta que llego black frezzer."
+  },
+  {
+    "index": 1,
+    "img": "https://i.imgur.com/NRSZ4IN.jpg",
+    "jawaban": "BLACK FREZZER",
+    "deskripsi": "Vió convertirse en super sayayin a goku, actualmente el guerrero mas fuerte."
+  },
+  {
+    "index": 2,
+    "img": "https://imgur.com/IY9MLDL",
+    "jawaban": "NARUTO",
+    "deskripsi": "Serie animada de origen japonés basada en el manga del mismo nombre, escrito e ilustrado por Masashi Kishimoto."
+  },
+  {
+    "index": 3,
+    "img": "https://imgur.com/ThXBjsb.jpg",
+    "jawaban": "SAKUKE",
+    "deskripsi": "Se describe como un ninja inteligente, ambicioso, obstinado, le gusta desafiar y arrogante . Crece en una situación que le exige ser el mejor ninja para alcanzar su objetivo. Primero, es un ninja inteligente. Nació de una familia que se convirtió en el líder de su clan, Uchiha."
+  },
+  {
+    "index": 4,
+    "img": "https://imgur.com/ATpcnNF.jpg",
+    "jawaban": "SAKURA",
+    "deskripsi": "inteligente, valiente y compasivo . Aunque su mal genio puede hacer que se irrite fácilmente con los demás, tiene un corazón bondadoso en el fondo, y se preocupa por sus amigos por encima de todo.."
+  },
+  {
+    "index": 5,
+    "img": "https://imgur.com/OfLSspy.jpg",
+    "jawaban": "ONE PIECE",
+    "deskripsi": "Es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.."
+  },
+  {
+    "index": 6,
+    "img": "https://imgur.com/hwjUEEk.jpg",
+    "jawaban": "PIKACHU",
+    "deskripsi": "Es un Pokémon de tipo eléctrico introducido en la primera generación. Es el Pokémon más conocido de la historia, mayormente por ser el acompañante del protagonista del anime, Ash Ketchum y la mascota representante de la franquicia Pokémon."
+  },
+  {
+    "index": 7,
+    "img": "https://imgur.com/3IWKdOb.jpg",
+    "jawaban": "SASHA GREY",
+    "deskripsi": "Es una actriz que cautivó la industria del cine."
+  },
+  {
+    "index": 8,
+    "img": "https://imgur.com/iE75Zgw.jpg",
+    "jawaban": "CRISTIANO RONALDO",
+    "deskripsi": "Fue nombrado el mejor jugador portugués de todos los tiempos por la Federación Portuguesa de Fútbol. *SIUUUUUUUU* "
+  },
+  {
+    "index": 9,
+    "img": "https://imgur.com/eYRa0PL.jpg",
+    "jawaban": "LEO MESSI",
+    "deskripsi": "Es un futbolista argentino que juega como delantero o centrocampista. Jugador histórico del Fútbol Club Barcelona, al que estuvo ligado veinte años, desde 2021 integra el plantel del Paris Saint-Germain de la Ligue 1 de Francia.."
+  },
+  {
+    "index": 10,
+    "img": "https://imgur.com/undefined.jpg",
+    "jawaban": "SHAKIRA",
+    "deskripsi": "Es una cantante, compositora y bailarina colombiana que emergió en la escena de la música latina a principios de los 90 y desde el primer momento se convirtió en el número 1latino en ventas."
+  }
+]
+]
