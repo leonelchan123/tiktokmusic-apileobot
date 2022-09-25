@@ -27,7 +27,7 @@
   { 
     "index": 5, 
     "soal": "Noche, Colchón, Almohada, Freno", 
-    "jawaban": "SLEEP" 
+    "jawaban": "DORMIR" 
   }, 
   { 
     "index": 6, 
@@ -36,8 +36,8 @@
   }, 
   { 
     "index": 7, 
-    "soal": "Road, Sirens, Sick, Fast", 
-    "jawaban": "AMBULANCE" 
+    "soal": "Por Carretera, Sirenas, Enfermo, Rápido", 
+    "jawaban": "AMBULANCIA" 
   }, 
   { 
     "index": 8, 
@@ -47,7 +47,7 @@
   { 
     "index": 9, 
     "soal": "Dinero, Pago, Bolsillo, Tarjeta de cajero automático", 
-    "jawaban": "WALLET" 
+    "jawaban": "CARTERA" 
   }, 
   {
     "index": 10, 
@@ -57,11 +57,11 @@
   { 
     "index": 11, 
     "soal": "Profesión, Lupa, Misterio" , 
-    "jawaban": " DETECTIVE" 
+    "jawaban": "DETECTIVE" 
   }, 
   { 
     "index": 12, 
-    "soal": "Objeto, afilado, fruta cortada", 
+    "soal": "Objeto, afilado, fruta cortada, cortar pan", 
     "jawaban": "CUCHILLO" 
   }, 
   { 
@@ -71,13 +71,13 @@
   },
   { 
     "index": 14, 
-    "soal":"Cosas, Par, Derecha, Izquierda, Correr", 
+    "soal": "Cosas, Par, Derecha, Izquierda, Correr, Te pones en los pies", 
     "jawaban": "ZAPATOS" 
   }, 
   {
     "index": 15, 
-    "soal": "Living, Matador, Horn", 
-    "jawaban": "BULL" 
+    "soal": "Vivo, Matador, Cuerno, Empieza con T", 
+    "jawaban": "TORO" 
   }, 
   { 
     "index": 16, 
@@ -1037,7 +1037,7 @@
   { 
     "index": 207, 
     "soal": "Onda, Rodar, Agua, Playa", 
-    "jawaban": "ONDAS " 
+    "jawaban": "ONDAS" 
   }, 
   { 
     "index": 208, 
@@ -1051,7 +1051,7 @@
   }, 
   { 
     "index": 210, 
-    "soal": "Instrumento, Música, Doremi, Caja", 
+    "soal": "Instrumento, Música, Se toca con los dedos, Caja", 
     "jawaban": "PIANO" 
   }, 
   { 
@@ -1062,7 +1062,7 @@
   { 
     "index": 212, 
     "soal": "Fruta, Naranja, Círculo", 
-    "jawaban": "Naranja" 
+    "jawaban": "NARANJA" 
   } , 
   { 
     "index": 213, 
@@ -1107,21 +1107,21 @@
   { 
     "index": 221, 
     "soal": "Herramientas, Swipe, Sonidos, Música", 
-    "jawaban": "VIOLA" 
+    "jawaban": "VIOLIN" 
   },
   { 
     "index": 222, 
-    "soal": "Longitud, Electricidad, Pln", 
+    "soal": "Longitud, Electricidad, Transmisión", 
     "jawaban": "CABLE" 
   }, 
   { 
     "index": 223, 
-    "soal": "Herramienta, Comer, Afilado", 
+    "soal": "Herramienta, Comer, Tallarines, Fideos", 
     "jawaban" : "TENEDOR" 
   }, 
   { 
     "index": 224, 
-    "soal": "Herramienta, Cortar, Cocina", 
+    "soal": "Herramienta, Cortar, Cocina, Cortar pan", 
     "jawaban": "CUCHILLO" 
   }, 
   { 
@@ -1197,11 +1197,11 @@
   { 
     "index": 239, 
     "soal": "Lugar, Profesor, Estudiante, Study", 
-    "jawaban": "SCHOOL" 
+    "jawaban": "Escuela" 
   }, 
   { 
     "index": 240, 
-    "soal": "Scary, Quiet, Place, Died", 
+    "soal": "Accidente, Persona en mal estado, Sin remedio, Internado", 
     "jawaban": "GRAVE" 
   }, 
   { 
@@ -1211,18 +1211,18 @@
   },
   { 
     "index": 242, 
-    "soal": "Rayas, Arma, Guerra", 
+    "soal": "Rayas, Arma, Guerra, Persona", 
     "jawaban": "SOLDADO" 
   }, 
   {
     "index": 243, 
-    "soal": "Afilado, Madera, Cortar", 
-    "jawaban": "SAW" 
+    "soal": "Afilado, Madera, Cortar, Carpinteria", 
+    "jawaban": "Sierra" 
   }, 
   { 
     "index": 244, 
     "soal": "Herramientas, Explotar, Lanzar, Soldados", 
-    "jawaban ": "GREENS" 
+    "jawaban ": "Granada" 
   }, 
   { 
     "index": 245, 
@@ -1241,7 +1241,7 @@
   }, 
   { 
     "index": 248,
-    "soal": "Empuje, Comerciante, Herramienta, Rueda", 
+    "soal": "Empuje, Comerciante, Transporte, Rueda", 
     "jawaban": "CARRO" 
   }, 
   { 
@@ -1256,7 +1256,7 @@
   }, 
   { 
     "index": 251, 
-    "soal": "Sharp, Paper, Cut , Herramienta", 
+    "soal": "Corta, Papel, Herramienta para cortar, Colegio", 
     "jawaban": "Tijeras" 
   }, 
   { 
@@ -1266,37 +1266,37 @@
   } , 
   { 
     "index": 253, 
-    "soal": "Trabajo, Lugar, Empleado",
+    "soal": "Trabajo, Lugar, Empleado, Sillas, Mesas",
     "jawaban": "OFICINA" 
   }, 
   { 
     "index": 254, 
-    "soal": "Lugar, Medicina, Vender, Mezcla", 
+    "soal": "Lugar, Medicina, Vender, Farmacia, Atiende a clientes", 
     "jawaban": "FARMACÉUTICA" 
   }, 
   { 
     "index": 255, 
-    "soal": "Hospital, Enfermería,Trabajo", 
-    "jawaban": "HERMANA" 
+    "soal": "Hospital, Enfermería, Trabajo", 
+    "jawaban": "Enfermera" 
   }, 
   { 
     "index": 256, 
-    "soal": "Cuidado, Mujeres, Seguridad", 
-    "jawaban": "OFICIAL DE POLICÍA" 
+    "soal": "Cuidado, Pistola, Seguridad, Cuida las calles", 
+    "jawaban": "POLICÍA" 
   }, 
   { 
     "index" : 257, 
-    "soal": "Inyecciones, Drogas, Cheques, Trabajos", 
+    "soal": "Inyecciones, Pastillas, Trabaja en el hospital, Receta medicinas", 
     "jawaban": "DOCTOR" 
   }, 
   { 
     "index": 258, 
-    "soal": "Sharp, Knight, Weapon",
+    "soal": "Caballero, Jinete, Arma, Arma larga, Filuda",
     "jawaban": "ESPADA" 
   }, 
   { 
     "índice": 259, 
-    "soal": "Luz, Noche, Herramienta, Batería", 
+    "soal": "Luz, Noche, Herramienta, Batería, Fla", 
     "jawaban": "FLASH" 
   }, 
   { 
@@ -1306,13 +1306,13 @@
   }, 
   { 
     "index": 261, 
-    "soal": "Afeitado, Madera, Escritura, Herramientas", 
+    "soal": "Madera, Escritura, Herramienta, Escribir papel, Se borra", 
     "jawaban": "LÁPIZ" 
   }, 
   { 
     "index": 262, 
-    "soal": "Zapatos, Pie, Goma", 
-    "jawaban": "SANDAL" 
+    "soal": "Zapatos con tiras, Pie, Goma", 
+    "jawaban": "SANDALIA" 
   }, 
   { 
     "index": 263, 
@@ -1321,13 +1321,13 @@
   }, 
   { 
     "index": 264, 
-    "soal": "Bird, Black, Copycat", 
-    "jawaban": "BEO" 
+    "soal": "Cuenta, Finanzas, Empleo, Profesión", 
+    "jawaban": "CONTADOR" 
   }, 
   { 
     "index": 265, 
-    "soal": "Cuenta, Finanzas, Empleo", 
-    " jawaban": "CONTADOR" 
+    "soal": "Cuenta, Finanzas, Empleo, Profesión", 
+    "jawaban": "CONTADOR" 
   }, 
   { 
     "index": 266, 
@@ -1336,7 +1336,7 @@
   }, 
   { 
     "index": 267, 
-    "soal": " Tecnología, Diseño, Trabajo", 
+    "soal": "Tecnología, Diseño, Trabajo", 
     "jawaban": "INGENIERÍA" 
   },
   { 
@@ -1361,8 +1361,8 @@
   }, 
   { 
     "index": 272, 
-    "soal": " Espalda curvada, Consumido, Animales marinos", 
-    "jawaban": "SHRIMP" 
+    "soal": "Espalda curvada, Consumido, Animales marinos", 
+    "jawaban": "CAMARON" 
   },
   { 
     "index": 273, 
@@ -1372,7 +1372,7 @@
   {
     "index": 274, 
     "soal": "Carne roja, Nadador, Confiable, Pescado", 
-    "jawaban": "TUNA" 
+    "jawaban": "ATUN" 
   }, 
   { 
     "index": 275, 
@@ -1391,22 +1391,22 @@
   }, 
   { 
     "index": 278,
-    "soal": "cuello largo, pato, blanco", 
-    "jawaban": "BUENO" 
+    "soal": "Distrito, Funcionario, Líder", 
+    "jawaban" : "ALCALDE" 
   }, 
   { 
     "index": 279,
-    "soal": "Mollus, Slow, Shell", 
-    "jawaban": "SNAIL" 
+    "soal": "Distrito, Funcionario, Líder", 
+    "jawaban" : "ALCALDE" 
   }, 
   { 
     "index": 280, 
     "soal": "Distrito, Funcionario, Líder", 
-    "jawaban" : "REGENT" 
+    "jawaban" : "ALCALDE" 
   }, 
   { 
     "index": 281, 
-    "soal": "MUCHAS PIERNAS, Nocturnas, Venenosas", 
+    "soal": "Muchas piernas, 100, Nocturnas, Venenosas", 
     "jawaban": "CIENPIÉS" 
   }, 
   { 
@@ -1416,17 +1416,17 @@
   }, 
   { 
     "index": 283, 
-    "soal": "Grano, Agua, Cielo", 
+    "soal": "Grano, Agua, Cae del Cielo, Líquido", 
     "jawaban": "LLUVIA" 
   }, 
   { 
     "índice": 284, 
-    "soal": " Teclado, Monitor, Wifi",
+    "soal": " Teclado, Monitor, Wifi, Todo en uno",
     "jawaban": "LAPTOP" 
   }, 
   { 
     "index": 285, 
-    "soal": "Persona, Enfermedad, Curado", 
+    "soal": "Persona, Enfermedad, Cura, Sana a las personas", 
     "jawaban": "DOCTOR" 
   }, 
   { 
@@ -1461,8 +1461,8 @@
   }, 
   { 
     "index": 292, 
-    "soal": "Ocean, Widest, World", 
-    "jawaban": "PACIFIC" 
+    "soal": "Océano, el más ancho del mundo", 
+    "jawaban": "PACIFICO" 
   }, 
   { 
     "index": 293, 
@@ -1481,13 +1481,13 @@
   }, 
   { 
     "index": 296, 
-    "soal": "Excavación, Objeto, Antiguo", 
+    "soal": "Excavación, Objeto, Antiguo, Huacos", 
     "jawaban": "ARQUEOLOGÍA" 
   }, 
   { 
     "índice": 297, 
     "soal": "Simio, Nariz, Grande", 
-    "jawaban": "MONO PROBÓSCIS" 
+    "jawaban": "MONO" 
   }, 
   { 
     "índice": 298, 
@@ -1502,11 +1502,11 @@
   { 
     "index": 300,
     "soal": "Piscina, Grande, Artificial", 
-    "jawaban": "RESERVOIR" 
+    "jawaban": "RESERVORIO" 
   }, 
   { 
     "index": 301, 
-    "soal": "Fruto, Piel, Espinas", 
-    "jawaban": "DURIAN" 
+    "soal": "Mandarina, Plátano, Manzana, Pera", 
+    "jawaban": "FRUTAS" 
   } 
 ]
