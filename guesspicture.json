@@ -61,8 +61,81 @@
   },
   {
     "index": 10,
-    "img": "https://imgur.com/undefined.jpg",
+    "img": "https://imgur.com/7Qc4bQB.jpg",
     "jawaban": "SHAKIRA",
     "deskripsi": "Es una cantante, compositora y bailarina colombiana que emergió en la escena de la música latina a principios de los 90 y desde el primer momento se convirtió en el número 1latino en ventas."
+  },
+  {
+    "index": 11,
+    "img": "https://imgur.com/QdKwhgg.jpg",
+    "jawaban": "CAMARON",
+    "deskripsi": "Crustáceo marino decápodo de pequeño tamaño, muy parecido a la gamba, pero de cuerpo comprimido lateralmente y antenas muy largas; hay varias especies, generalmente de color casi transparente; abunda en el Atlántico, el Mediterráneo y el Pacífico; su carne es comestible y muy apreciada."
+  },
+  {
+    "index": 12,
+    "img": "https://imgur.com/msAIKOg.jpg",
+    "jawaban": "PALETA",
+    "deskripsi": "Se define como un 'caramelo plano, generalmente de forma circular, con un palito que sirve de mango'. En los países occidentales se suelen hacer a base de azúcar, jarabe de glucosa y colorantes"
+  },
+  {
+    "index": 13,
+    "img": "https://imgur.com/p3fOygq.jpg",
+    "jawaban": "GARFIELD",
+    "deskripsi": "El personaje titular, fue inspirado en los gatos que Davis tenía cuando era pequeño; tomó su nombre y personalidad del abuelo de Davis, James A. Garfield Davis, quién era, en palabras de Davis, 'un hombre enorme y escandaloso'."
+  },
+  {
+    "index": 14,
+    "img": "https://imgur.com/WXB3HHS.jpg",
+    "jawaban": "BLUTO",
+    "deskripsi": "Es un personaje de historieta creado en 1932 por Elzie Crisler Segar. En un comienzo fue ideado como un personaje unitario llamado Bluto el terrible en la tira cómica Thimble Theatre, publicación que tiempo después se llamó Popeye."
+  },
+  {
+    "index": 15,
+    "img": "https://imgur.com/AM52oQE.jpg",
+    "jawaban": "POPEYE",
+    "deskripsi": "El marino es un personaje de tiras cómicas y de cortometrajes de dibujos animados. Fue creado por Elzie Crisler Segar y apareció por primera vez en la tira cómica Timble Theatre de King Features Syndicate, en la edición del The New York Evening."
+  },
+  {
+    "index": 16,
+    "img": "https://imgur.com/gbluyAw.jpg",
+    "jawaban": "PAPA PITUFO",
+    "deskripsi": "Es uno de los protagonistas de la tira cómica Los Pitufos. Se dice que la mayoría de los Pitufos tienen alrededor de 100 años, pero a la avanzada edad de 546, Papá es el Pitufo más viejo y el líder de todos los Pitufos. A pesar de su edad, todavía es bastante enérgico."
+  },
+  {
+    "index": 17,
+    "img": "https://imgur.com/4sH7cBi.jpg",
+    "jawaban": "DROOPY",
+    "deskripsi": "Es un personaje animado creado por Tex Avery para el estudio de animación de Metro-Goldwyn-Mayer en 1943, con una personalidad opuesta a otro famoso personaje de MGM, Screwy Squirrel."
+  },
+  {
+    "index": 18,
+    "img": "https://imgur.com/qY9Ya83.jpg",
+    "jawaban": "OSO YOGUI",
+    "deskripsi": "Es un personaje ficticio de dibujos animados. Es un oso antropomorfo y parlante, creado por los estudios de animación de Hanna-Barbera."
+  },
+  {
+    "index": 19,
+    "img": "https://imgur.com/6plt854.jpg",
+    "jawaban": "JACK SPARROW",
+    "deskripsi": "El Capitán, es un personaje de ficción de la serie cinematográfica Piratas del Caribe interpretado por el actor Johnny Depp"
+  },
+  {
+    "index": 20,
+    "img": "https://imgur.com/Mb0HwOJ.jpg",
+    "jawaban": "PATO LUCAS",
+    "deskripsi": "Es un personaje ficticio de Warner Bros. que aparece en distintos cortometrajes del programa de animación Looney Tunes, solo o en compañía de sus enemigos como Bugs Bunny, Elmer Gruñón, Sam Bigotes, Porky Pig, Taz, El Gallo Claudio, Marvin el Marciano y Speedy Gonzales."
+  },
+  {
+    "index": 21,
+    "img": "https://imgur.com/N3A2Rkp.jpg",
+    "jawaban": "SIMBA",
+    "deskripsi": "Es el personaje protagonista de la trilogía de películas El rey león, The Lion King II: Simba's Pride y El rey león 3: Hakuna Matata producidas por Walt Disney Pictures. Se trata de la personificación de un león africano."
+  },
+  {
+    "index": 22,
+    "img": "https://imgur.com/CvJwoQ9.jpg",
+    "jawaban": "ALEX",
+    "deskripsi": "Ees un personaje de ficción y el protagonista principal de la saga de películas de Madagascar, es un león del Zoológico de Central Park y es, junto con Marty, Gloria y Melman, una de las atracciones principales del Zoológico."
   }
+  
 ]
