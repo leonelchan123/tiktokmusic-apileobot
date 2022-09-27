@@ -82,7 +82,7 @@
   { 
     "index": 16, 
     "soal": "Lugar, Edificio, Dormir, Llave, Recepcionista", 
-    "jawaban": " HOTEL" 
+    "jawaban": "HOTEL" 
   }, 
   { 
     "index": 17, 
@@ -102,7 +102,7 @@
   {
     "index": 20, 
     "soal": "Artículo, Fragante, Espuma, Baño", 
-    "jawaban": "SOAP" 
+    "jawaban": "JABON" 
   }, 
   { 
     "index": 21, 
@@ -132,12 +132,12 @@
   { 
     "index": 26, 
     "soal": "País, Arte, Pelota, Pizza, Pisa", 
-    "jawaban" : "ITALY" 
+    "jawaban" : "ITALIA" 
   }, 
   { 
     "index": 27, 
     "soal": "Cueva, Noche, Oscuridad, Criaturas vivientes", 
-    "jawaban": "BAT" 
+    "jawaban": "MURCIELAGO" 
   }, 
   { 
     "index": 28, 
@@ -196,13 +196,13 @@
   }, 
   { 
     " index": 39, 
-    "soal": "Puerta,Armario, Coche, Candado", 
-    "jawaban": "KEY" 
+    "soal": "Puerta, Armario, Coche, Candado", 
+    "jawaban": "LLAVE" 
   }, 
   { 
     "index": 40,
     "soal": "Orugas, Flores, Animales", 
-    "jawaban": "BUTTERFLY" 
+    "jawaban": "MARIPOSA" 
   }, 
   { 
     "index": 41, 
@@ -216,12 +216,12 @@
   }, 
   { 
     "index": 43, 
-    "soal": "Dedo, Regalo, Boda, Pareja", 
+    "soal": "Pelea, Boxeador, Sangre", 
     "jawaban ": "RING" 
   }, 
   { 
     "index": 44, 
-    "soal": "Arroz,Carne, Palillos, Japón", 
+    "soal": "Arroz, Carne, Palillos, Japón", 
     "jawaban": "SUSHI" 
   }, 
   { 
@@ -232,7 +232,7 @@
   { 
     "index": 46, 
     "soal": "Televisión, Battre, Lightning, Tengangan", 
-    "jawaban": "ELECTRICIDAD " 
+    "jawaban": "ELECTRICIDAD" 
   }, 
   { 
     "index": 47, 
@@ -242,7 +242,7 @@
   { 
     "index": 48, 
     "soal": "Soya, Delicioso, Cocina ", 
-    "jawaban": "Salsa de soja" 
+    "jawaban": "SALSA DE SOYA" 
   }, 
   { 
     "index": 49,
@@ -296,8 +296,8 @@
   }, 
   { 
     "index": 59, 
-    "soal": "Rata, Pez, Campana",
-    "jawaban": "CAT" 
+    "soal": "Oso, Abeja, Flor" , 
+    "jawaban ": "MIEL" 
   }, 
   { 
     "index": 60, 
@@ -321,18 +321,18 @@
   }, 
   { 
     "index ": 64, 
-    "soal": " Avión, Femenino, Amistoso", 
-    "jawaban": "STEWESTNESS" 
+    "soal": " Avión, Helicoptero, Avioneta", 
+    "jawaban": "VOLAR" 
   }, 
   { 
     "index": 65, 
-    "soal": "Olor, dolor de estómago, sonidos",
-    "jawaban": "FAR" 
+    "soal": "Dolor de rodilla, Dolor de estómago, Dolor de muñeca",
+    "jawaban": "DOLOR" 
   }, 
   { 
     "index": 66, 
     "soal": "Hierro, Sol, Fuego, Infierno", 
-    "jawaban": "HOT" 
+    "jawaban": "CALIENTE" 
   }, 
   { 
     "index": 67, 
@@ -341,8 +341,8 @@
   }, 
   { 
     "índice": 68, 
-    "soal": "Colorido, Lluvia", 
-    "jawaban": "LLUVIA" 
+    "soal": "Colorido, Lluvia, Sol, Despues de la lluvia", 
+    "jawaban": "ARCOIRIS" 
   }, 
   { 
     "índice": 69, 
@@ -356,13 +356,13 @@
   },
   { 
     "index": 71, 
-    "soal": "Jump, Sac, Australia", 
-    "jawaban": "KANGAROO" 
+    "soal": "Diamantes, Oro, Mapas, Secretos", 
+    "jawaban": "TESORO" 
   }, 
   { 
     "index": 72, 
     "soal": "Diamantes, Oro, Mapas, Secretos", 
-    " jawaban": "TESORO" 
+    "jawaban": "TESORO" 
   }, 
   { 
     "index": 73, 
@@ -386,18 +386,18 @@
   }, 
   { 
     "index": 77, 
-    "soal": "Cintura, Longitud", 
-    "jawaban": "BELT" 
+    "soal": "Cintura, Longitud, Sujetar pantalón", 
+    "jawaban": "CINTURON" 
   }, 
   { 
     "index": 78, 
-    "soal": "Cabeza, Medicina", 
+    "soal": "Cabeza, Medicina, Movimiento de cabeza, Inestabilidad", 
     "jawaban": "MAREOS" 
   }, 
   { 
     "index": 79, 
-    "soal": "Basura, Gérmenes, Volador, Estómago Dolor", 
-    "jawaban": "VOLAR" 
+    "soal": "Cabeza, Medicina, Movimiento de cabeza, Inestabilidad", 
+    "jawaban": "MAREOS" 
   }, 
   { 
     "índice": 80, 
@@ -412,7 +412,7 @@
   { 
     "index": 82, 
     "soal": "Verde, Salto, Agua, Tierra", 
-    "jawaban": " RANA" 
+    "jawaban": "RANA" 
   }, 
   { 
     "index": 83, 
@@ -422,12 +422,12 @@
   { 
     "index": 84, 
     "soal": "Camello, Pirámide, Cactus, Dry", 
-    "jawaban": "DESERT" 
+    "jawaban": "DESIERTO" 
   }, 
   { 
     "index": 85, 
-    "soal": "Blanco,Thin, Wipe, Toilet", 
-    "jawaban": " TISSUE" 
+    "soal": "Blanco, Negro, Azul, Marrón, Rojo", 
+    "jawaban": "COLORES" 
   }, 
   { 
     "index": 86,
@@ -447,12 +447,12 @@
   { 
     "índice": 89, 
     "soal": "Leche, Dientes, Papel" , 
-    "jawaban": "WHITE" 
+    "jawaban": "BLANCO" 
   }, 
   { 
     "index": 90, 
-    "soal": "Nariz, Larga, Mentira,Madera", 
-    "jawaban": "PINOKIO" 
+    "soal": "Nariz, Larga, Mentira, Madera", 
+    "jawaban": "PINOCHO" 
   }, 
   { 
     "index": 91, 
@@ -466,13 +466,13 @@
   }, 
   { 
     "index": 93 , 
-    "soal": "Arriba , Abajo, Pies", 
-    "jawaban": "STAIRS" 
+    "soal": "Arriba, Abajo, Pies", 
+    "jawaban": "ESCALERA" 
   }, 
   { 
     "index": 94, 
-    "soal": "Head, Hot, Beach", 
-    "jawaban": "HAT" 
+    "soal": "Cabeza, Caliente, Playa", 
+    "jawaban": "SOMBRERO" 
   }, 
   { 
     "index": 95, 
@@ -481,8 +481,8 @@
   },
   { 
     "index": 96, 
-    "soal": "Sueño, ruidoso", 
-    "jawaban": "NOROK" 
+    "soal": "Sueño, Miedo, Sin movimiento, Mounstruo", 
+    "jawaban": "PARALISIS DE SUEÑO" 
   }, 
   {
     "índice": 97, 
@@ -521,8 +521,8 @@
   }, 
   { 
     "index": 104, 
-    "soal": "Sharp, Fish,Dangerous", 
-    "jawaban": "PIRANHA" 
+    "soal": "Fuerte, Pescado, Peligroso al ver sangre, Pir...", 
+    "jawaban": "PIRAÑA" 
   }, 
   { 
     "index": 105, 
@@ -531,8 +531,8 @@
   }, 
   { 
     "índice": 106, 
-    "soal": "Boca,Plastic, Long, Drink", 
-    "jawaban": "STRAW" 
+    "soal": "Tipo, Dedo, Computadora, Letra ", 
+    "jawaban": "TECLADO" 
   }, 
   { 
     "index": 107, 
@@ -581,12 +581,12 @@
   }, 
   { 
     "índice": 116, 
-    "soal": "Moco, Nariz, Congestión, Tejido", 
-    "jawaban": "COLD" 
+    "soal": "Moco, Nariz, Congestión, Malestar", 
+    "jawaban": "RESFRIO" 
   }, 
   { 
     "index":117, 
-    "soal": "Peak, Drink", 
+    "soal": "Bebida, Filtrante, Tasa, Mazanilla, Anís", 
     "jawaban": "TE" 
   }, 
   { 
@@ -606,8 +606,8 @@
   }, 
   { 
     "index": 121, 
-    "soal": "Delgado, Suave, Aguja", 
-    " jawaban": "YARN" 
+    "soal": "Delgado, Suave, Aguja, Cocer, Aguja", 
+    " jawaban": "HILO" 
   }, 
   { 
     "index": 122, 
@@ -636,8 +636,8 @@
   }, 
   { 
     "index": 127 , 
-    "soal": "Arte, Exhibiciones, Paredes, Estética", 
-    "jawaban": "PAINT" 
+    "soal": "Arte, Exhibiciones, Paredes, Estética, Brocha, Pincél", 
+    "jawaban": "PINTAR" 
   }, 
   { 
     "index": 128, 
@@ -652,12 +652,12 @@
   { 
     "index": 130, 
     "soal": "Escuela, Tablero, Pizarra , Blanco", 
-    "jawaban": "CHALK" 
+    "jawaban": "TIZA" 
   }, 
   { 
     "index": 131, 
     "soal": "Vehículo, Transporte, Tierra, Asfalto", 
-    "jawaban": "WAY" 
+    "jawaban": "CAMINO" 
   }, 
   { 
     "index": 132, 
@@ -672,12 +672,12 @@
   { 
     "index": 134, 
     "soal": "Noche, Alas, Negro, Sangre", 
-    "jawaban": "BAT" 
+    "jawaban": "BATMAN" 
   }, 
   { 
     "index": 135, 
     "soal": "Triángulo, Egipto, Faraón" , 
-    "jawaban": "PYRAMID" 
+    "jawaban": "PIRAMIDE" 
   }, 
   { 
     "index": 136, 
@@ -711,8 +711,8 @@
   }, 
   { 
     "index": 142, 
-    "soal": "Zapatos, Pie, Correa", 
-    "jawaban": "Zapatos" 
+    "soal": "Zapatos, Pie, Correa, Pasador", 
+    "jawaban": "ZAPATOS" 
   }, 
   { 
     "índice":143, 
@@ -741,8 +741,8 @@
   }, 
   { 
     "índice": 148, 
-    "soal": "Pequeño, Grupo, Nido, Animal", 
-    "jawaban": "ANT" 
+    "soal": "Pequeño, Grupo, Nido, Ave", 
+    "jawaban": "AVE" 
   }, 
   { 
     "index": 149,
@@ -751,7 +751,7 @@
   }, 
   { 
     "index": 150, 
-    "soal": "Entretenido, Sule, Riendo", 
+    "soal": "Entretenido, Labio rojo, Alrededor verde, Riendo", 
     "jawaban": "JOKER" 
   } , 
   { 
@@ -762,12 +762,12 @@
   { 
     "index": 152, 
     "soal": "Redondo, Agujero, Harina", 
-    "jawaban": "DONUT" 
+    "jawaban": "DONA" 
   }, 
   { 
     "index": 153, 
-    "soal": "Eclipse, Luz, Noche", 
-    "jawaban": "MOON" 
+    "soal": "Eclipse, Luz, Noche, Circular", 
+    "jawaban": "LUNA" 
   }, 
   { 
     "index": 154, 
@@ -841,8 +841,8 @@
   }, 
   { 
     "index": 168, 
-    "soal": " Empresa, País, Petróleo", 
-    " jawaban": "CORPORACIÓN INDIA DEL PETRÓLEO" 
+    "soal": "Empresa, País, Petróleo", 
+    " jawaban": "PETRÓLEO" 
   }, 
   { 
     "índice": 169, 
@@ -856,28 +856,28 @@
   }, 
   { 
     "index": 171, 
-    "soal": "Galaxia, Sistema Solar", 
-    "jawaban": "MYMASKTI" 
+    "soal": "Marte, Jupiter, Saturno, Tierra", 
+    "jawaban": "PLANETAS" 
   }, 
   { 
     " index": 172, 
-    "soal": "Música, Indonesia, Rocking, Drum", 
-    "jawaban": "DANGDUT" 
+    "soal": "Marte, Jupiter, Saturno, Tierra", 
+    "jawaban": "PLANETAS" 
   }, 
   { 
     "index": 173, 
-    "soal": "Birds, Rare, Papua", 
-    "jawaban" : "CENDRAWASIH" 
+    "soal": "Marte, Jupiter, Saturno, Tierra", 
+    "jawaban": "PLANETAS" 
   }, 
   { 
     "índice": 174, 
-    "soal": "Huesos de hierro, marionetas, vuelo, magia", 
-    "jawaban": "GATOT GLASS" 
+    "soal": "Espacio, Espera, Autobús", 
+    "jawaban": "DETENER"
   }, 
   { 
     "index": 175,
     "soal": "Pepino, Agrio, Salado", 
-    "jawaban": "PICKLE" 
+    "jawaban": "PEPINILLO" 
   }, 
   { 
     "index": 176, 
@@ -891,8 +891,8 @@
   }, 
   { 
     "index": 178, 
-    "soal": "Bebé, Pee, Soft", 
-    "jawaban": "DIAPER" 
+    "soal": "Bebé, Pichi, Deposición, Suave", 
+    "jawaban": "PAÑAL" 
   }, 
   { 
     "index": 179, 
@@ -911,13 +911,13 @@
   }, 
   { 
     "index": 182, 
-    "soal": "Black, White, Rain, Floating", 
-    "jawaban": "CLOUD" 
+    "soal": "Negro, blanco, lluvia, flotante", 
+    "jawaban": "NUBE" 
   }, 
   { 
     "index": 183, 
-    "soal": "Smoke, Exhaust, Environment", 
-    "jawaban": "POLLUTION" 
+    "soal": "Humo, Escape, Medio Ambiente", 
+    "jawaban": "CONTAMINACIÓN" 
   }, 
   { 
     "index ": 184, 
@@ -957,7 +957,7 @@
   { 
     "index": 191, 
     "soal": "Objeto, Soporte, Longitud", 
-    "jawaban": "POLLE" 
+    "jawaban": "GATA" 
   }, 
   { 
     "index": 192, 
@@ -976,8 +976,8 @@
   },
   { 
     "index" : 195, 
-    "soal": "Blanco, Azul, Guardia", 
-    "jawaban": "SATPAM" 
+    "soal": "Guardia, Cuidador, Vigilancia", 
+    "jawaban": "VIGILANTE" 
   }, 
   {
     "index": 196, 
@@ -996,13 +996,13 @@
   }, 
   { 
     "index": 199, 
-    "soal": "Pan , Fresa, Líquido", 
-    "jawaban": "JAM" 
+    "soal": "Pan, Fresa, Líquido", 
+    "jawaban": "MERMELADA" 
   }, 
   { 
     "index": 200,
-    "soal": "Keep, Funny, Fangs, Bells", 
-    "jawaban": "CAT" 
+    "soal": "Divertida, Colmillos, Campanas, MIAU", 
+    "jawaban": "GATO" 
   }, 
   { 
     "index": 201,
@@ -1046,8 +1046,8 @@
   }, 
   { 
     "index": 209, 
-    "soal": "Animales, Raro, Bosque, Kalimantan ", 
-    "jawaban": "ORANG UTAN" 
+    "soal": "Animales, Raro, Bosque", 
+    "jawaban": "ORANGUTAN" 
   }, 
   { 
     "index": 210, 
@@ -1181,8 +1181,8 @@
   }, 
   { 
     "índice": 236, 
-    "soal": "Tempat, Kendaraan, Penyimpanan, Luas", 
-    "jawaban":"PARKING" 
+    "soal": "Emisión, Señal, Televisión, Dispositivo", 
+    "jawaban": "ANTENA" 
   }, 
   { 
     "index": 237, 
@@ -1252,12 +1252,12 @@
   { 
     "index":250, 
     "soal": "Sonido, Gato, Objeto, Cuello", 
-    "jawaban": "BELL" 
+    "jawaban": "CAMPANA" 
   }, 
   { 
     "index": 251, 
     "soal": "Corta, Papel, Herramienta para cortar, Colegio", 
-    "jawaban": "Tijeras" 
+    "jawaban": "TIJERAS" 
   }, 
   { 
     "index": 252, 
@@ -1276,8 +1276,8 @@
   }, 
   { 
     "index": 255, 
-    "soal": "Hospital, Enfermería, Trabajo", 
-    "jawaban": "Enfermera" 
+    "soal": "Hospital, Enfermería, Trabajo, Ayuda al paciente", 
+    "jawaban": "ENFERMERA" 
   }, 
   { 
     "index": 256, 
@@ -1381,13 +1381,13 @@
   }, 
   { 
     "index": 276, 
-    "soal":"Trabajos, Pantallas, Productos", 
+    "soal":"Trabajos, Pantallas, Productos, Ropa, Vender", 
     "jawaban": "MODELO" 
   }, 
   { 
     "index": 277, 
-    "soal": "Ayuda, Law, Demandado", 
-    "jawaban": "LAYER" 
+    "soal": "Distrito, Funcionario, Líder", 
+    "jawaban" : "ALCALDE" 
   }, 
   { 
     "index": 278,
