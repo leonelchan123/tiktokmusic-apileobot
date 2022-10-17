@@ -1,0 +1,323 @@
+{
+  "status": "OK",
+  "pictures": [
+    {
+      "index": 0,
+      "img": "https://i.imgur.com/2AOLgKm.jpg",
+      "jawaban": "GOKU",
+      "deskripsi": "Fue el guerrero mas fuerte de dragon ball, hasta que llego black frezzer."
+    },
+    {
+      "index": 1,
+      "img": "https://i.imgur.com/NRSZ4IN.jpg",
+      "jawaban": "BLACK FREEZER",
+      "deskripsi": "Vió convertirse en super sayayin a goku, actualmente el guerrero mas fuerte."
+    },
+    {
+      "index": 2,
+      "img": "https://imgur.com/IY9MLDL.jpg",
+      "jawaban": "NARUTO",
+      "deskripsi": "Serie animada de origen japonés basada en el manga del mismo nombre, escrito e ilustrado por Masashi Kishimoto."
+    },
+    {
+      "index": 3,
+      "img": "https://imgur.com/ThXBjsb.jpg",
+      "jawaban": "SAKUKE",
+      "deskripsi": "Se describe como un ninja inteligente, ambicioso, obstinado, le gusta desafiar y arrogante . Crece en una situación que le exige ser el mejor ninja para alcanzar su objetivo. Primero, es un ninja inteligente. Nació de una familia que se convirtió en el líder de su clan, Uchiha."
+    },
+    {
+      "index": 4,
+      "img": "https://imgur.com/ATpcnNF.jpg",
+      "jawaban": "SAKURA",
+      "deskripsi": "inteligente, valiente y compasivo . Aunque su mal genio puede hacer que se irrite fácilmente con los demás, tiene un corazón bondadoso en el fondo, y se preocupa por sus amigos por encima de todo.."
+    },
+    {
+      "index": 5,
+      "img": "https://imgur.com/OfLSspy.jpg",
+      "jawaban": "ONE PIECE",
+      "deskripsi": "Es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.."
+    },
+    {
+      "index": 6,
+      "img": "https://imgur.com/hwjUEEk.jpg",
+      "jawaban": "PIKACHU",
+      "deskripsi": "Es un Pokémon de tipo eléctrico introducido en la primera generación. Es el Pokémon más conocido de la historia, mayormente por ser el acompañante del protagonista del anime, Ash Ketchum y la mascota representante de la franquicia Pokémon."
+    },
+    {
+      "index": 7,
+      "img": "https://imgur.com/3IWKdOb.jpg",
+      "jawaban": "SASHA GREY",
+      "deskripsi": "Es una actriz que cautivó la industria del cine."
+    },
+    {
+      "index": 8,
+      "img": "https://imgur.com/iE75Zgw.jpg",
+      "jawaban": "CRISTIANO RONALDO",
+      "deskripsi": "Fue nombrado el mejor jugador portugués de todos los tiempos por la Federación Portuguesa de Fútbol. *SIUUUUUUUU* "
+    },
+    {
+      "index": 9,
+      "img": "https://imgur.com/eYRa0PL.jpg",
+      "jawaban": "LEO MESSI",
+      "deskripsi": "Es un futbolista argentino que juega como delantero o centrocampista. Jugador histórico del Fútbol Club Barcelona, al que estuvo ligado veinte años, desde 2021 integra el plantel del Paris Saint-Germain de la Ligue 1 de Francia.."
+    },
+    {
+      "index": 10,
+      "img": "https://imgur.com/7Qc4bQB.jpg",
+      "jawaban": "SHAKIRA",
+      "deskripsi": "Es una cantante, compositora y bailarina colombiana que emergió en la escena de la música latina a principios de los 90 y desde el primer momento se convirtió en el número 1latino en ventas."
+    },
+    {
+      "index": 11,
+      "img": "https://imgur.com/QdKwhgg.jpg",
+      "jawaban": "CAMARON",
+      "deskripsi": "Crustáceo marino decápodo de pequeño tamaño, muy parecido a la gamba, pero de cuerpo comprimido lateralmente y antenas muy largas; hay varias especies, generalmente de color casi transparente; abunda en el Atlántico, el Mediterráneo y el Pacífico; su carne es comestible y muy apreciada."
+    },
+    {
+      "index": 12,
+      "img": "https://imgur.com/msAIKOg.jpg",
+      "jawaban": "PALETA",
+      "deskripsi": "Se define como un 'caramelo plano, generalmente de forma circular, con un palito que sirve de mango'. En los países occidentales se suelen hacer a base de azúcar, jarabe de glucosa y colorantes"
+    },
+    {
+      "index": 13,
+      "img": "https://imgur.com/p3fOygq.jpg",
+      "jawaban": "GARFIELD",
+      "deskripsi": "El personaje titular, fue inspirado en los gatos que Davis tenía cuando era pequeño; tomó su nombre y personalidad del abuelo de Davis, James A. Garfield Davis, quién era, en palabras de Davis, 'un hombre enorme y escandaloso'."
+    },
+    {
+      "index": 14,
+      "img": "https://imgur.com/WXB3HHS.jpg",
+      "jawaban": "BLUTO",
+      "deskripsi": "Es un personaje de historieta creado en 1932 por Elzie Crisler Segar. En un comienzo fue ideado como un personaje unitario llamado Bluto el terrible en la tira cómica Thimble Theatre, publicación que tiempo después se llamó Popeye."
+    },
+    {
+      "index": 15,
+      "img": "https://imgur.com/AM52oQE.jpg",
+      "jawaban": "POPEYE",
+      "deskripsi": "El marino es un personaje de tiras cómicas y de cortometrajes de dibujos animados. Fue creado por Elzie Crisler Segar y apareció por primera vez en la tira cómica Timble Theatre de King Features Syndicate, en la edición del The New York Evening."
+    },
+    {
+      "index": 16,
+      "img": "https://imgur.com/gbluyAw.jpg",
+      "jawaban": "PAPA PITUFO",
+      "deskripsi": "Es uno de los protagonistas de la tira cómica Los Pitufos. Se dice que la mayoría de los Pitufos tienen alrededor de 100 años, pero a la avanzada edad de 546, Papá es el Pitufo más viejo y el líder de todos los Pitufos. A pesar de su edad, todavía es bastante enérgico."
+    },
+    {
+      "index": 17,
+      "img": "https://imgur.com/4sH7cBi.jpg",
+      "jawaban": "DROOPY",
+      "deskripsi": "Es un personaje animado creado por Tex Avery para el estudio de animación de Metro-Goldwyn-Mayer en 1943, con una personalidad opuesta a otro famoso personaje de MGM, Screwy Squirrel."
+    },
+    {
+      "index": 18,
+      "img": "https://imgur.com/qY9Ya83.jpg",
+      "jawaban": "OSO YOGUI",
+      "deskripsi": "Es un personaje ficticio de dibujos animados. Es un oso antropomorfo y parlante, creado por los estudios de animación de Hanna-Barbera."
+    },
+    {
+      "index": 19,
+      "img": "https://imgur.com/6plt854.jpg",
+      "jawaban": "JACK SPARROW",
+      "deskripsi": "El Capitán, es un personaje de ficción de la serie cinematográfica Piratas del Caribe interpretado por el actor Johnny Depp"
+    },
+    {
+      "index": 20,
+      "img": "https://imgur.com/Mb0HwOJ.jpg",
+      "jawaban": "PATO LUCAS",
+      "deskripsi": "Es un personaje ficticio de Warner Bros. que aparece en distintos cortometrajes del programa de animación Looney Tunes, solo o en compañía de sus enemigos como Bugs Bunny, Elmer Gruñón, Sam Bigotes, Porky Pig, Taz, El Gallo Claudio, Marvin el Marciano y Speedy Gonzales."
+    },
+    {
+      "index": 21,
+      "img": "https://imgur.com/N3A2Rkp.jpg",
+      "jawaban": "SIMBA",
+      "deskripsi": "Es el personaje protagonista de la trilogía de películas El rey león, The Lion King II: Simba's Pride y El rey león 3: Hakuna Matata producidas por Walt Disney Pictures. Se trata de la personificación de un león africano."
+    },
+    {
+      "index": 22,
+      "img": "https://imgur.com/CvJwoQ9.jpg",
+      "jawaban": "ALEX",
+      "deskripsi": "Es un personaje de ficción y el protagonista principal de la saga de películas de Madagascar, es un león del Zoológico de Central Park y es, junto con Marty, Gloria y Melman, una de las atracciones principales del Zoológico."
+    },
+    {
+      "index": 23,
+      "img": "https://imgur.com/99JMHBH.jpg",
+      "jawaban": "PANTERA ROSA",
+      "deskripsi": "Es el nombre de un personaje de ficción, relacionado con la película de igual título, de 1963. Ese título aludía a un diamante de color rosa."
+    },
+    {
+      "index": 24,
+      "img": "https://imgur.com/jOMnCnr.jpg",
+      "jawaban": "DORA",
+      "deskripsi": "Es una pequeña niña que junto con sus amigos viven aventuras en un juego de un mundo animado dentro de una computadora, para solucionar enigmas con ayuda de los niños."
+    },
+    {
+      "index": 25,
+      "img": "https://imgur.com/K3BDism.jpg",
+      "jawaban": "JERRY",
+      "deskripsi": "Un ratón, que protagonizaron un gran número de cortometrajes creados, escritos y dirigidos por William Hanna y Joseph Barbera"
+    },
+    {
+      "index": 26,
+      "img": "https://imgur.com/hlNIDjY.jpg",
+      "jawaban": "PORKY",
+      "deskripsi": "Es un personaje de dibujos animados creado por los estudios Warner Bros. Aparece en las series Looney Tunes y Merrie Melodies y suele aparecer al final de los cortos diciendo —traducido tanto en el doblaje latinoamericano como español— «¡¡Eso es to... eso es to... e-eeesto es todo amigos!!»."
+    },
+    {
+      "index": 27,
+      "img": "https://imgur.com/f6AxzwO.jpg",
+      "jawaban": "CASPER",
+      "deskripsi": "Durante una visita a la mansión de una heredera, una joven huérfana ayuda a un fantasma amistoso llamado Gasparín."
+    },
+    {
+      "index": 28,
+      "img": "https://imgur.com/llJr18e.jpg",
+      "jawaban": "BAMBI",
+      "deskripsi": "Es un pequeño cervatillo recién nacido, tímido e inseguro que vive con su madre en el bosque. Poco a poco irá haciendo nuevos amigos como el conejo Tambor, la mofeta Flor y la cervatilla Faline a la vez que irá aprendiendo grandes lecciones de su madre, hasta que la pierde por culpa de los cazadores."
+    },
+    {
+      "index": 29,
+      "img": "https://imgur.com/BhchLvq.jpg",
+      "jawaban": "BUGS BUNNY",
+      "deskripsi": "Es un personaje de dibujos animados creado por Tex Avery, que aparece como un alocado conejo en las series de los Looney Tunes y Merrie Melodies producidas por Leon Schlesinger para la compañía Warner Bros."
+    },
+    {
+      "index": 30,
+      "img": "https://imgur.com/w4jqR8R.jpg",
+      "jawaban": "BATMAN",
+      "deskripsi": "Es un personaje de cómic creado por los estadounidenses Bob Kane y Bill Finger, y propiedad de DC Comics. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista Detective Comics N.º 27, lanzada por la editorial National Publications el 30 de marzo de 1939."
+    },
+    {
+      "index": 31,
+      "img": "https://imgur.com/PnSBwns.jpg",
+      "jawaban": "TERMINATOR",
+      "deskripsi": "Es una película estadounidense de ciencia ficción y acción de 1984, dirigida por James Cameron, coescrita entre Cameron, Gale Anne Hurd y William Wisher Jr. y protagonizada por Arnold Schwarzenegger, Linda Hamilton y Michael Biehn."
+    },
+    {
+      "index": 32,
+      "img": "https://imgur.com/WiNjhFw.jpg",
+      "jawaban": "PIOLIN",
+      "deskripsi": "También conocido en algunos países hispanohablantes por su nombre en inglés Tweety, es un personaje creado por Bob Clampett para la serie de dibujos animados Looney Tunes, de la productora estadounidense Warner Bros."
+    },
+    {
+      "index": 33,
+      "img": "https://imgur.com/GFKpkDV.jpg",
+      "jawaban": "PEDRO PICAPIEDRA",
+      "deskripsi": "Es un personaje ficticio de la serie de televisión de dibujos animados 'Los Picapiedra'. Durante los años sesenta era el personaje principal de la serie, protagonizando las diversas historias en una vida contemporánea, pero vista como en la edad de piedra."
+    },
+    {
+      "index": 34,
+      "img": "https://imgur.com/AojOeCI.jpg",
+      "jawaban": "ALADINO",
+      "deskripsi": "Es una de las historias de Las mil y una noches y una de las más famosas en la cultura medio-oriental. Aunque no pertenece a la colección original árabe de Las mil y una noches, es uno de los cuentos más conocidos asociados con esa colección."
+    },
+    {
+      "index": 35,
+      "img": "https://imgur.com/LA4imHQ.jpg",
+      "jawaban": "PLUTO",
+      "deskripsi": "Es un perro amarillo muy bien entrenado por su dueño Mickey Mouse. Él es el mejor amigo de Mickey y es muy leal a él desde que era un cachorro. Odia a los gatos, por lo que su mayor rival es Fígaro, el gato de Minnie Mouse."
+    },
+    {
+      "index": 36,
+      "img": "https://imgur.com/9HPYfOs.jpg",
+      "jawaban": "BLANCA NIEVES",
+      "deskripsi": "Es un cuento de hadas mundialmente conocido. La versión más difundida es la de los hermanos Grimm y la puesta cinematográfica de Blancanieves y los siete enanitos de Walt Disney."
+    },
+    {
+      "index": 37,
+      "img": "https://imgur.com/O6K4OAP.jpg",
+      "jawaban": "DIEGO",
+      "deskripsi": "Es un antagonista (anteriormente), ahora protagonista de la franquicia, en La era de Hielo , Diego se muestra por primera vez como el tipo siniestro y serio, pero se suaviza a medida que viaja con Manny y Sid para devolver un bebé humano a su tribu."
+    },
+    {
+      "index": 38,
+      "img": "https://imgur.com/gA9CZOL.jpg",
+      "jawaban": "EL CORRECAMINOS",
+      "deskripsi": "Es el personajes de una serie estadounidense de dibujos animados creada en 1949 por el animador Chuck Jones para la Warner Brothers."
+    },
+    {
+      "index": 39,
+      "img": "https://imgur.com/MES5ZLZ.jpg",
+      "jawaban": "COYOTE",
+      "deskripsi": "Es el personajes de una serie estadounidense de dibujos animados creada en 1949 por el animador Chuck Jones para la Warner Brothers."
+    },
+    {
+      "index": 40,
+      "img": "https://imgur.com/0obeRNp.jpg",
+      "jawaban": "JOHNNY BRAVO",
+      "deskripsi": "Es muy confiado y cree que todas las mujeres lo quieren. Con su pelo largo y ropa apretada de color negro, es conocido por sus golpes de karate."
+    },
+    {
+      "index": 41,
+      "img": "https://imgur.com/TnnDkyD.jpg",
+      "jawaban": "JOKER",
+      "deskripsi": "Adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen."
+    },
+    {
+      "index": 42,
+      "img": "https://imgur.com/mqWzzdy.jpg",
+      "jawaban": "MAGGIE SIMPSON",
+      "deskripsi": "Es un personaje ficticio de la serie de televisión de dibujos animados Los Simpson. Es la tercera hija del matrimonio protagonista, Homer y Marge Simpson, y la más joven de ellos. Sus hermanos mayores son Bart y Lisa Simpson."
+    },
+    {
+      "index": 43,
+      "img": "https://imgur.com/2OlaSo2.jpg",
+      "jawaban": "MISS PIGGY",
+      "deskripsi": "Personaje de marioneta de la televisión estadounidense, una marioneta de cerdo altamente articulada que aparece en el programa de variedades y comedia en horario estelar. El show de los Muppets."
+    },
+    {
+      "index": 44,
+      "img": "https://imgur.com/vbWSFeT.jpg",
+      "jawaban": "OLIVA",
+      "deskripsi": "Es un personaje de dibujos animados creado por E. C. Segar en 1919 para su tira cómica Thimble Theatre."
+    },
+    {
+      "index": 45,
+      "img": "https://imgur.com/SY4cosV.jpg",
+      "jawaban": "EL PÁJARO LOCO",
+      "deskripsi": "Es un personaje animado creado por Walter Lantz y diseñado originalmente por el dibujante Ben Hardaway, autor también de Bugs Bunny y el Pato Lucas, con quienes comparte un estilo alocado de comedia; como ellos, es un animal antropomorfo."
+    },
+    {
+      "index": 46,
+      "img": "https://imgur.com/DxeXnyZ.jpg",
+      "jawaban": "PIKACHU",
+      "deskripsi": "Es una de las criaturas de la franquicia Pokémon. Este personaje hizo su primera aparición en los videojuegos Pokémon Rojo y Azul, siendo el Pokémon número 25 de la lista de Pokémon registrada en el Pokédex nacional."
+    },
+    {
+      "index": 47,
+      "img": "https://imgur.com/51D1O6W.jpg",
+      "jawaban": "RAPHAEL",
+      "deskripsi": "Es un superhéroe ficticio y uno de los cuatro personajes principales de los cómics Tortugas ninja y todos los medios relacionados."
+    },
+    {
+      "index": 48,
+      "img": "https://imgur.com/JKAlIhH.jpg",
+      "jawaban": "ROBIN",
+      "deskripsi": "Es el alias de varios superhéroes ficticios que aparecen en los cómics estadounidenses publicados por DC Comics. El personaje fue creado originalmente por Bob Kane, Bill Finger y Jerry Robinson, para servir como contraparte menor del superhéroe Batman."
+    },
+    {
+      "index": 49,
+      "img": "https://imgur.com/xmZBwNL.jpg",
+      "jawaban": "SPIDERMAN",
+      "deskripsi": "Es un personaje creado por los estadounidenses Stan Lee y Steve Ditko, e introducido en el cómic Amazing Fantasy n.° 15, publicado por Marvel Comics en agosto de 1962."
+    },
+    {
+      "index": 50,
+      "img": "https://imgur.com/YJJCHBn.jpg",
+      "jawaban": "SUPERMAN",
+      "deskripsi": "Es un hombre alto, musculoso, hombre de raza blanca con ojos azules y pelo negro corto con un rizo. Superman, siempre lleva su uniforme azul con su famoso rojo y amarillo escudo de S en el pecho, un cinturón amarillo, botas rojas y una capa roja."
+    },
+    {
+      "index": 51,
+      "img": "https://imgur.com/iZz0TZZ.jpg",
+      "jawaban": "TARZÁN",
+      "deskripsi": "Hombre de complexión atlética , generalmente atractivo ."
+    },
+    {
+      "index": 52,
+      "img": "https://imgur.com/ANieSuR.jpg",
+      "jawaban": "VILMA PICAPIEDRA",
+      "deskripsi": "Es un personaje de animación de la serie Los Picapiedra, emitida en Estados Unidos durante los años sesenta. Es la esposa del personaje principal de la serie, Pedro Picapiedra y madre de Pebbles Picapiedra."
+    }
+  ]
+}
