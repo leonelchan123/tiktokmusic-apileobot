@@ -190,44 +190,155 @@
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Viajes y lugares",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "🚗"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🚙"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🚕"
+                },
+                {
+                    "emoji": "🚓"
+                },
+                {
+                    "emoji": "🏎"
+                },
+                {
+                    "emoji": "🚜"
+                },
+                {
+                    "emoji": "🦽"
+                },
+                {
+                    "emoji": "🚲"
+                },
+                {
+                    "emoji": "🚨"
+                },
+                {
+                    "emoji": "🚔"
+                },
+                {
+                    "emoji": "🚍"
+                },
+                {
+                    "emoji": "🚘"
+                },
+                {
+                    "emoji": "🚖"
+                },
+                {
+                    "emoji": "⛴"
                 }
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Objetos",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "⌚"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "📲"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "💻"
+                },
+                {
+                    "emoji": "⏰"
+                },
+                {
+                    "emoji": "💿"
+                },
+                {
+                    "emoji": "📞"
+                },
+                {
+                    "emoji": "⏳"
+                },
+                {
+                    "emoji": "🔑"
+                },
+                {
+                    "emoji": "👔"
+                },
+                {
+                    "emoji": "👖"
+                },
+                {
+                    "emoji": "👗"
+                },
+                {
+                    "emoji": "👘"
+                },
+                {
+                    "emoji": "👣"
+                },
+                {
+                    "emoji": "👓"
+                },
+                {
+                    "emoji": "🕶"
                 }
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Símbolos",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "❤"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🧡"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "💛"
+                },
+                {
+                    "emoji": "💚"
+                },
+                {
+                    "emoji": "💙"
+                },
+                {
+                    "emoji": "💜"
+                },
+                {
+                    "emoji": "🤎"
+                },
+                {
+                    "emoji": "🖤"
+                },
+                {
+                    "emoji": "🤍"
+                },
+                {
+                    "emoji": "💔"
+                },
+                {
+                    "emoji": "❣"
+                },
+                {
+                    "emoji": "💕"
+                },
+                {
+                    "emoji": "💘"
+                },
+                {
+                    "emoji": "‼"
+                },
+                {
+                    "emoji": "♨"
+                },
+                {
+                    "emoji": "🚫"
+                },
+                {
+                    "emoji": "❌"
                 }
             ]
         }
