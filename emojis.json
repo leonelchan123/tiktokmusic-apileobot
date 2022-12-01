@@ -60,44 +60,146 @@
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Comida y bebida",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "🍏"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🍎"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🍐"
+                },
+                {
+                    "emoji": "🍊"
+                },
+                {
+                    "emoji": "🍋"
+                },
+                {
+                    "emoji": "🍟"
+                },
+                {
+                    "emoji": "🍔"
+                },
+                {
+                    "emoji": "🍺"
+                },
+                {
+                    "emoji": "🧁"
+                },
+                {
+                    "emoji": "🍰"
+                },
+                {
+                    "emoji": "🍕"
+                },
+                {
+                    "emoji": "🍝"
+                },
+                {
+                    "emoji": "🌮"
+                },
+                {
+                    "emoji": "🍜"
+                },
+                {
+                    "emoji": "🍪"
                 }
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Actividades",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "⚽"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🏀"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🏈"
+                },
+                {
+                    "emoji": "⚾"
+                },
+                {
+                    "emoji": "🥅"
+                },
+                {
+                    "emoji": "🥊"
+                },
+                {
+                    "emoji": "🥋"
+                },
+                {
+                    "emoji": "🏂"
+                },
+                {
+                    "emoji": "🏄‍♀"
+                },
+                {
+                    "emoji": "🏊‍♀"
+                },
+                {
+                    "emoji": "🚴‍♀"
+                },
+                {
+                    "emoji": "🚵‍♀"
+                },
+                {
+                    "emoji": "🚵‍♂"
+                },
+                {
+                    "emoji": "👨‍🎨"
+                },
+                {
+                    "emoji": "👩‍🔬🎓"
+                },
+                {
+                    "emoji": "🧑‍🔬🎓"
+                },
+                {
+                    "emoji": "🧑‍🚀🎓"
                 }
             ]
         },
         {
-            "category_name" : "Animales y naturaleza",
+            "category_name" : "Familiar",
             "category_emoji" : [
                 {
-                    "emoji": "😀"
+                    "emoji": "🧍‍♀"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🧍‍♀"
                 },
                 {
-                    "emoji": "😀"
+                    "emoji": "🏃"
+                },
+                {
+                    "emoji": "👫"
+                },
+                {
+                    "emoji": "👭"
+                },
+                {
+                    "emoji": "🧑‍🤝‍🧑"
+                },
+                {
+                    "emoji": "👩‍👩‍👦"
+                },
+                {
+                    "emoji": "👨‍👨‍👧‍👦👩‍👦"
+                },
+                {
+                    "emoji": "👨‍👨‍👧‍👦👩‍👦"
+                },
+                {
+                    "emoji": "👩‍👦"
+                },
+                {
+                    "emoji": "👩‍👦‍👦👩‍👦"
                 }
             ]
         },
