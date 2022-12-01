@@ -2,7 +2,21 @@
     "status" : "OK",
     "emojis" : [
         {
-            "category_name" : "Oh chupanervio :v",
+            "category_name" : "LLama Icons",
+            "category_emoji": [
+                {
+                    "emoji": "🦙"
+                },
+                {
+                    "emoji": "🔥"
+                },
+                {
+                    "emoji": "💥"
+                }
+            ]
+        },
+        {
+            "category_name" : "Sonrisas y personas",
             "category_emoji": [
                 {
                     "emoji": "😄"
@@ -46,7 +60,7 @@
             ]
         },
         {
-            "category_name" : "Tonguito",
+            "category_name" : "Comida y bebida",
             "category_emoji" : [
                 {
                     "emoji": "🍏"
