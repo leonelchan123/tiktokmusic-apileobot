@@ -2,7 +2,7 @@
     "status" : "OK",
     "emojis" : [
         {
-            "category_name" : "Sonrisas y personas",
+            "category_name" : "Oh chupanervio",
             "category_emoji": [
                 {
                     "emoji": "😀"
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "category_name" : "Comida y bebida",
+            "category_name" : "Tonguito",
             "category_emoji" : [
                 {
                     "emoji": "🍏"
