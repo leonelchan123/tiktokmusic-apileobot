@@ -21,7 +21,7 @@
       },
       {
         "name": "Pollo a la brasa casero",
-        "description": "",
+        "description": "Pollos a la brasa Se denomina pollo a la brasa al pollo marinado en especias, asado a la leña o a gas en un sistema rotatorio, con una cocción uniforme y jugosa. El pollo a la brasa viene, por lo general, acompañado de papas, ensaladas de verduras y salsas tradicionales.",
         "preparation_food": "Primero en una cacerola ponemos sal, pimienta negra molida, comino, ajo molido, una pizca de azúcar, un chorro de vinagre, un chorro de cerveza rubia.Luego colocamos el pollo y lo aderezamos con esa combinación por dentro y por fuera.Ahora le añadimos un poco de romero en polvo.Mientras calentamos el horno y ponemos el pollo en una fuente con toda su macerado para luego colocarlo en el horno por unos 45 minutos con una temperatura entre 200 y 220 grados, cada 15 minutos se debe rociar con su jugo y grasa para que dore mejor.Aparte podemos preparar las papas fritas bien crujientes para acompañar, también preparar una ensalada de su gusto, mayonesa casera, mostaza, ají casero, una chicha morada o limonada, servir todo en la mesa y listo a disfrutar del pollito a la brasa hecho con tus propias manos.",
         "ingredients_food": "1 Pollo\nsal\npimienta negra molida\ncomino\najo molido\nazúcar\nvinagre\ncerveza rubia\nromero en polvo",
         "img_food": "https://yp-challenge.s3.amazonaws.com/pollo_brasa.jpg",
@@ -48,7 +48,7 @@
       },
       {
         "name": "Pizza",
-        "description": "",
+        "description": "Se trata de un pan plano horneado, habitualmente de forma redonda, elaborado con harina de trigo, sal, agua y levadura, cubierto con salsa de tomate y queso. Existe una gran cantidad de variedades según el formato del pan, la forma de cocinarlo y la combinación de diferentes ingredientes.",
         "preparation_food": "Cortamos dos cebollas grandes rojas y 4 tomates chicos en tiras gruesas, un ají amarillo en cortes delgados, un poco de cebolla china, una cucharada de ajo molido y dejamos listos los ingredientes.Necesitamos lomo fino de Res o bistec, cortado en tiras gruesas, arrancamos las hojas de 8 tallos de culantro.Listas ocho cucharadas de vinagre mezclado con cuatro cucharas de sillao.Para acompañar ya debemos tener el arroz blanco preparado y las papas fritas bien crocantes.Una vez que todo está listo, echamos aceite vegetal en una sartén grande, subimos el fuego al máximo y cuando esté botando humo echamos la mitad de la carne que ya habremos sazonado con sal y pimienta.Echamos un poco de la mezcla de sillao y vinagre, colocamos la mitad de la cebolla por un minuto y retiramos, ponemos la otra mitad por otro minuto y retiramos.Echamos la mitad de los tomates, por dos minutos y retiramos, luego echamos la otra mitad, por dos minutos, retiramos y listo.Hemos logrado un sabor increíble para la carne, ahora vamos a mezclarlo todo, en la misma sartén echamos aceite y dejamos que caliente.Añadimos ajo molido por unos segundos, toda la carne, todo el tomate, añadimos el ají amarillo, toda la cebolla y lo que queda del sillao y vinagre.Dejamos por unos minutos, añadimos la cebolla china y las hojas de culantro, y listo, nuestro lomo saltado ya quedo.",
         "ingredients_food": "1 kg de lomo de res o bistec\n2 cebollas rojas\n4 tomates\naji amarillo\n1 poco de cebolla china\n1 cda de ajo\n8 cdas de vinagre\n4 cdas de sillao\nsal, pimienta y comino",
         "img_food": "https://imgur.com/ZUuPUk7.jpg",
